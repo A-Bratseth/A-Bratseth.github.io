@@ -1,0 +1,64 @@
+.body {
+    background-color:bisque;
+    margin-bottom: 1000px;
+}
+.top-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: flex-start;
+    margin: 0px;
+    padding-left: 20px;
+}
+.signature {
+    justify-content: start;
+
+}
+
+.signatureimg {
+    height: 40px;
+}
+
+.logo {
+    background-color: blueviolet;
+    margin-right: 50px;
+    margin-left: 0;
+    justify-content: center;
+}
+
+.navigation {
+    width: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    justify-content: space-between;
+
+    width: 100px;
+    cursor: pointer;
+}
+
+.navtxt {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: end;
+    text-decoration: underline;
+}
+
+.main-landing {
+    display: flex;
+    flex-direction: row;
+    margin-top: 85px;
+}
+.meimg {
+    background-color: aqua;
+    width: 300px;
+    object-fit: contain;
+    margin-left: 40px;
+    margin-right: 12px;
+}
+
+.medes {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10%;
+    flex: 1;
+}
