@@ -1,6 +1,6 @@
 
 # Hi, my name is Adrian Bratseth and this is my portfolio
-I am a 22 year old student from Trondheim Norway who completed his education in Singapore. I am an aspiring data scientist who specializes in finance. I have always loved quantifiable information and the whole process of collecting, sorting and displaying data. I have worked on a variety of self-quantitative projects where I use myself as object of study. These ventures have taught me a great deal about how to utilize statistics and how to leverage the lessons they teach you.<br> I now seek to develop my analytical skills further, especially withing finance; a subject I have a passionate interest for.
+I am a 23 year old working professional, originaly from Trondheim Norway who completed his education in Singapore. I am an aspiring data scientist who specializes in finance. I have always loved quantifiable information and the whole process of collecting, sorting and displaying data. I have worked on a variety of self-quantitative projects where I use myself as object of study. These ventures have taught me a great deal about how to utilize statistics and how to leverage the lessons they teach you.<br> I now seek to develop my analytical skills further, especially withing finance; a subject I have a passionate interest for.
 
 ## Project 3: [Financial models]()
 ### Status: Finished <br> Last edited: June 2022
